@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello World! 👋
 
 My name is Hemanta Sundaray. I'm a full-stack web developer working with React, TypeScript, Node.js, and PostgreSQL.
 
